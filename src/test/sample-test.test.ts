@@ -2,7 +2,7 @@ import { describe, expect, test } from "vitest";
 
 const person = {
   isActive: true,
-  age: true,
+  age: 29,
 };
 
 describe("person", () => {
